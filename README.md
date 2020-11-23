@@ -1,6 +1,6 @@
 # simjoin
 
-Implementation of *Similarity (Self-)Join* algorithms considering the range operator. It containns three implementations:
+Implementation of *Similarity (Self-)Join* algorithms considering the range operator. It contains three implementations:
 - Brute Force;
 - QuickJoin;
 - SuperEGO.
